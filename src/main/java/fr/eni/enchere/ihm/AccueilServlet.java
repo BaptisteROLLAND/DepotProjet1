@@ -41,7 +41,7 @@ public class AccueilServlet extends HttpServlet {
 	}
 	
 	protected void getPause {
-		
+		 
 	}
 
 }
