@@ -39,5 +39,9 @@ public class AccueilServlet extends HttpServlet {
 		// TODO Auto-generated method stub
 		doGet(request, response);
 	}
+	
+	protected void getPause {
+		
+	}
 
 }
