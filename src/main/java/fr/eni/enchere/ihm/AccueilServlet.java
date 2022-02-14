@@ -18,6 +18,7 @@ public class AccueilServlet extends HttpServlet {
      * Default constructor. 
      */
     public AccueilServlet() {
+    	System.out.println("test");
         // TODO Auto-generated constructor stub
     }
 
